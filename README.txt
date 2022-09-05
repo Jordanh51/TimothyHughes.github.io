@@ -3,6 +3,8 @@ html5up.net | @ajlkn
 
 Data Analyst Portfolio Projects.
 
+Under 'Environments' on right hand side click 'pages' to see website
+
 
 Credits:
 
